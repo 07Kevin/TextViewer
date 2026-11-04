@@ -11,6 +11,6 @@ folder1
 ├─ file1.txt
 ├─ file2.txt
 └─ folder2
-	└─ file3.txt
+   └─ file3.txt
 ```
 
