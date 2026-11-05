@@ -22,5 +22,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Subdirectories
 add_subdirectory(source)
+add_subdirectory(test)
 
 # TODO: Add tests and install targets if needed.

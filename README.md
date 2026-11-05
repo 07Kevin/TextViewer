@@ -8,9 +8,9 @@ Example output in console
 
 ```
 folder1
-├─ file1.txt
-├─ file2.txt
+├─ file1.txt / 80 Bytes
+├─ file2.txt / 12 Bytes
 └─ folder2
-   └─ file3.txt
+   └─ file3.txt / 5 Bytes
 ```
 

@@ -3,8 +3,8 @@
 
 #include "main.h"
 
-int main()
+int main( int iArgumentCount, char* piArgumentValue[] )
 {
-	cout << "Hello CMake." << endl;
+	std::cout << "Hello CMake." << std::endl;
 	return 0;
 }
