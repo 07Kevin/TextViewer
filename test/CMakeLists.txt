@@ -15,7 +15,7 @@ project (TextViewer)
 add_executable (File "File.cpp" "File.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
-  set_property(TARGET TextViewer PROPERTY CXX_STANDARD 20)
+  set_property(TARGET TextViewer PROPERTY CXX_STANDARD 23)
 endif()
 
 # TODO: Add tests and install targets if needed.
